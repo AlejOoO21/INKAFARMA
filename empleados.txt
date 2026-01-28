@@ -1,0 +1,2 @@
+77207155,Mori Tasayco,Aleejandro Josue,Contador,samuel,habilitado
+77207156,Mori Tasayco,Aleejandro Josue,Contador,samuel,Desabilitado
